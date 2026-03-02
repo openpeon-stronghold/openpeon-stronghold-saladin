@@ -6,6 +6,8 @@
 
 Saladin sound pack for [peon-ping](https://github.com/PeonPing/peon-ping) — voice lines from Saladin in Stronghold Crusader.
 
+Saladin is the most respected figure in Stronghold Crusader — wise, honourable, and genuinely magnanimous in victory. He fights for principle rather than plunder and earns the grudging admiration of even his enemies, making him the most trustworthy and formidable lord in the game.
+
 ## Install
 
 ```bash
